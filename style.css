@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+	margin: auto;
+	background-color: black;
+	color: blue;
+}
+.main {
+	display: grid;
+}
+h1 {
+	text-align: center;
+	padding: 10px;
+}

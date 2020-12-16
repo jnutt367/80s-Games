@@ -3,6 +3,7 @@
 	margin: auto;
 	background-color: black;
 	color: blue;
+	padding: 25px;
 }
 .main {
 	display: grid;
